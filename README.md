@@ -150,6 +150,8 @@ Tempo de execução de cada caminhamento e total. <br> <br>
 
 # Especificações dos Dispositivos Utilizados
 
+<strong><h4>Produção do código:</h4></strong>
+
 | Componentes            | Detalhes                                                                                         |
 | -----------------------| -----------------------------------------------------------------------------------------------  |
 |  `Processador`         | Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz   1.50 GHz                                             |
@@ -157,7 +159,7 @@ Tempo de execução de cada caminhamento e total. <br> <br>
 |  `Tipo de Sistema`     | Sistema Operacional de 64 bits, processador baseado em x64                                       |
 |  `Sistema Operacional` | Edição Windows 11 Home Single Language, versão 22H2                                              |
 
-<br>
+<strong><h4>Execução do código:</h4></strong>
 
 | Componentes            | Detalhes                                                                                         |
 | -----------------------| -----------------------------------------------------------------------------------------------  |
