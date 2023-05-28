@@ -150,7 +150,7 @@ Tempo de execução de cada caminhamento e total. <br> <br>
 
 # Especificações dos Dispositivos Utilizados
 
-<strong><h4>Produção do código:</h4></strong>
+<strong><h4>Escrita e Produção do código:</h4></strong>
 
 | Componentes            | Detalhes                                                                                         |
 | -----------------------| -----------------------------------------------------------------------------------------------  |
@@ -159,7 +159,7 @@ Tempo de execução de cada caminhamento e total. <br> <br>
 |  `Tipo de Sistema`     | Sistema Operacional de 64 bits, processador baseado em x64                                       |
 |  `Sistema Operacional` | Edição Windows 11 Home Single Language, versão 22H2                                              |
 
-<strong><h4>Execução do código:</h4></strong>
+<strong><h4>Compilação e Execução do código:</h4></strong>
 
 | Componentes            | Detalhes                                                                                         |
 | -----------------------| -----------------------------------------------------------------------------------------------  |
